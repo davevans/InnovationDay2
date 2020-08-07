@@ -1,4 +1,4 @@
-import jetbrains.buildServer.configs.kotlin.v2018_2.*
+import jetbrains.buildServer.configs.kotlin.v2019_2.*
 
 /*
 The settings script is an entry point for defining a TeamCity
@@ -22,7 +22,7 @@ To debug in IntelliJ Idea, open the 'Maven Projects' tool window (View
 'Debug' option is available in the context menu for the task.
 */
 
-version = "2019.1"
+version = "2020.1"
 
 project {
 }
